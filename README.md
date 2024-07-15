@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anurag pawar
 - 👀 I’m interested in programming,reading books,hanging out with self
-- 🌱 I’m currently learning Android development with java and kotlin
-- 💞️ I’m looking to collaborate on Android projects
+- 🌱 I’m currently learning web development with fiber.go and vue.js
+- 💞️ I’m looking to collaborate on web projects projects
 - 📫 to reach me mail:-anuragpawar163@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
